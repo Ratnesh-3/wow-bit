@@ -1,3 +1,4 @@
-
-print("my file was made on a tuesday")
-print()
+a=4
+b=7
+c=a+b
+print(c)
